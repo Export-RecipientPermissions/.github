@@ -1,0 +1,4 @@
+## **<a href="https://github.com/Set-OutlookSignatures/Set-OutlookSignatures" target="_blank"><img src="https://github.com/Export-RecipientPermissions/Export-RecipientPermissions/blob/main/src/logo/Export-RecipientPermissions%20Logo.png" width="400" title="Set-OutlookSignatures" alt="Set-OutlookSignatures"></a>**<br>Document, filter and compare Exchange permissions: Mailbox access rights, mailbox folder permissions, public folder permissions, send as, send on behalf, managed by, moderated by, linked master accounts, forwarders, sender restrictions, resource delegates, group members, management role group members
+
+# Welcome!  
+To get to know Export-RecipientPermissions, just head over to the [source code repository](https://github.com/Export-RecipientPermissions/Export-RecipientPermissions).
